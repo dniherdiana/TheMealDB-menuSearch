@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+#root {
+  background-color: rgb(247, 196, 31);
+  padding: 10px 30px;
+  height: 100%;
+}
+
+body {
+  background-color: rgb(247, 196, 31) !important;
+}
